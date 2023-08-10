@@ -56,3 +56,63 @@ Performance analysis of list
 Set comprehension
 List comprehension
 ```
+
+Full Stack 
+
+HTML/CSS:
+```
+Web Fonts, Gradients without
+Images
+Exploring Generated Content
+Animating Elements with Keyframes
+Elements Positioning, Working with
+Layouts
+Multi-Column Layouts with CSS3
+Introduction to CSS3,Basic Selectors
+Advanced Selectors, Lists, and
+Navigation Menus
+Working with Sizes, Colors and Files,
+Styling Text
+Transforms and Transitions
+Dealing with Cross Browser Layouts
+Styling Tables
+Media Queries, Print CSS3
+
+```
+BOOTSTRAP:
+```
+Introduction to Bootstrap framework
+Bootstrap JavaScript Plugins
+Bootstrap Layout Components
+Bootstrap CSS
+Using Bootstrap
+```
+
+JAVASCRIPT
+```
+JavaScript Essentials
+JavaScript Essentials
+DOM Scripting
+Introduction to web development and JavaScript
+DOM Scripting
+```
+
+MYSQL:
+```
+ER Diagrams
+Joins
+CRUD, Basic queries
+Refining our Selections- Like
+Normalization
+Constraints
+Group by, Having, order by clauses
+Creating Database and Tables,
+Inserting Data, CRUD Commands
+Aggregate Functions
+Set Operators
+Single row Functions
+Sub Queries.
+Views, Index, Export, and Import
+using Scripts.
+Stored procedures, Triggers
+```
